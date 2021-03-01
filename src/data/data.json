@@ -1,121 +1,91 @@
 [{
     "id": 1,
-    "name": "Mashrafee Mortaza",
-    "team": "Pachta",
-    "salary": "$324898.16",
-    "image": "http://dummyimage.com/131x233.jpg/cc0000/ffffff"
+    "name": "Mashrafe Mortaza",
+    "team": "Khulna Tigers",
+    "salary": 324898,
+    "image": "https://i.ibb.co/NTRkQ8V/mashrafe.jpg"
   }, {
     "id": 2,
-    "name": "Edy",
-    "team": "Skill",
-    "salary": "$329675.63",
-    "image": "http://dummyimage.com/183x195.jpg/5fa2dd/ffffff"
+    "name": "Shakib Al Hasan",
+    "team": "Dhaka Platoon",
+    "salary": 329675,
+    "image": "https://i.ibb.co/c30FRjr/Shakib.jpg"
   }, {
     "id": 3,
-    "name": "Clarisse",
-    "team": "Duncanson",
-    "salary": "$402298.62",
-    "image": "http://dummyimage.com/164x158.jpg/dddddd/000000"
+    "name": "Mushfiqur Rahim",
+    "team": "Dhaka Platoon",
+    "salary": 402298,
+    "image": "https://i.ibb.co/GPhtqmL/mushfiqur.jpg"
   }, {
     "id": 4,
-    "name": "Ellis",
-    "team": "Vinck",
-    "salary": "$385242.61",
-    "image": "http://dummyimage.com/156x238.jpg/ff4444/ffffff"
+    "name": "Tamim Iqbal",
+    "team": "Khulna Tigers",
+    "salary": 385242,
+    "image": "https://i.ibb.co/bgw8cFt/tamim.jpg"
   }, {
     "id": 5,
-    "name": "Dorine",
-    "team": "Calverley",
-    "salary": "$406423.45",
-    "image": "http://dummyimage.com/175x183.jpg/ff4444/ffffff"
+    "name": "Mustafizur Rahman",
+    "team": "Rajshahi Royals",
+    "salary": 406423,
+    "image": "https://i.ibb.co/SPfnwtD/mustafizur.jpg"
   }, {
     "id": 6,
-    "name": "Tracey",
-    "team": "Dreini",
-    "salary": "$321953.10",
-    "image": "http://dummyimage.com/181x171.jpg/cc0000/ffffff"
+    "name": "Mehidy Hasan",
+    "team": "Rajshahi Royals",
+    "salary": 321953,
+    "image": "https://i.ibb.co/JmQLYPG/mehidy.jpg"
   }, {
     "id": 7,
-    "name": "Sherwynd",
-    "team": "Webbe",
-    "salary": "$343241.45",
-    "image": "http://dummyimage.com/246x237.jpg/dddddd/000000"
+    "name": "Liton Das",
+    "team": "Chattagram Challengers",
+    "salary": 343241,
+    "image": "https://i.ibb.co/nPcqX7V/Bangladesh-batsman-Liton-Das-plays-a-shot-during-the-start-of-the-final-one-day-international-ODI-As.jpg"
   }, {
     "id": 8,
-    "name": "Rita",
-    "team": "Quinton",
-    "salary": "$313792.58",
-    "image": "http://dummyimage.com/176x130.jpg/5fa2dd/ffffff"
+    "name": "Soumya Sarkar",
+    "team": "Chattagram Challengers",
+    "salary": 313792,
+    "image": "https://i.ibb.co/ZzQfQ3g/soumya.jpg"
   }, {
     "id": 9,
-    "name": "Idelle",
-    "team": "Stainer",
-    "salary": "$393052.73",
-    "image": "http://dummyimage.com/128x108.jpg/cc0000/ffffff"
+    "name": "Mahmudullah",
+    "team": "Rangpur Rangers",
+    "salary": 393052,
+    "image": "https://i.ibb.co/bQ7s5hw/mahmudullah.jpg"
   }, {
     "id": 10,
-    "name": "Dannie",
-    "team": "Vila",
-    "salary": "$363281.82",
-    "image": "http://dummyimage.com/127x219.jpg/ff4444/ffffff"
+    "name": "Rubel Hossain",
+    "team": "Rangpur Rangers",
+    "salary": 363281,
+    "image": "https://i.ibb.co/W66shCz/rubel.jpg"
   }, {
     "id": 11,
-    "name": "Obadiah",
-    "team": "Mistry",
-    "salary": "$379287.91",
-    "image": "http://dummyimage.com/104x182.jpg/ff4444/ffffff"
+    "name": "Abu Jayed",
+    "team": "Dhaka Platoon",
+    "salary": 379287,
+    "image": "https://i.ibb.co/rpVYDzY/jayed.jpg"
   }, {
     "id": 12,
-    "name": "Charlean",
-    "team": "Slyne",
-    "salary": "$396056.24",
-    "image": "http://dummyimage.com/147x207.jpg/cc0000/ffffff"
+    "name": "Sabbir Rahman",
+    "team": "Rajshashi Royals",
+    "salary": 396056,
+    "image": "https://i.ibb.co/yFn2RPY/sabbir.jpg"
   }, {
     "id": 13,
-    "name": "Bil",
-    "team": "Foystone",
-    "salary": "$393548.23",
-    "image": "http://dummyimage.com/105x177.jpg/ff4444/ffffff"
+    "name": "Mohammad Mithun",
+    "team": "Rangpur Rangers",
+    "salary": 393548,
+    "image": "https://i.ibb.co/cJcmNsQ/mithun.webp"
   }, {
     "id": 14,
-    "name": "Berenice",
-    "team": "Janout",
-    "salary": "$322931.75",
-    "image": "http://dummyimage.com/120x237.jpg/5fa2dd/ffffff"
+    "name": "Hasan Mahmud",
+    "team": "Chattagram Challengers",
+    "salary": 322931,
+    "image": "https://i.ibb.co/Q84Ts7n/hasan.jpg"
   }, {
     "id": 15,
-    "name": "Ninnette",
-    "team": "Cawley",
-    "salary": "$370580.39",
-    "image": "http://dummyimage.com/240x208.jpg/cc0000/ffffff"
-  }, {
-    "id": 16,
-    "name": "Kipp",
-    "team": "Brayson",
-    "salary": "$302306.40",
-    "image": "http://dummyimage.com/107x193.jpg/dddddd/000000"
-  }, {
-    "id": 17,
-    "name": "Konstanze",
-    "team": "Gritskov",
-    "salary": "$378460.99",
-    "image": "http://dummyimage.com/191x162.jpg/5fa2dd/ffffff"
-  }, {
-    "id": 18,
-    "name": "Tarrance",
-    "team": "Plaster",
-    "salary": "$342909.53",
-    "image": "http://dummyimage.com/144x210.jpg/ff4444/ffffff"
-  }, {
-    "id": 19,
-    "name": "Jaclin",
-    "team": "Brackley",
-    "salary": "$321616.57",
-    "image": "http://dummyimage.com/135x185.jpg/ff4444/ffffff"
-  }, {
-    "id": 20,
-    "name": "Matthiew",
-    "team": "Riepel",
-    "salary": "$408106.33",
-    "image": "http://dummyimage.com/157x101.jpg/cc0000/ffffff"
+    "name": "Mohammad Saifuddin",
+    "team": "Khulna Tigers",
+    "salary": 370580,
+    "image": "https://i.ibb.co/cDwtmPH/saifuddin.webp"
   }]

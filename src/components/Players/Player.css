@@ -1,0 +1,24 @@
+.player-cards{
+    display: flex;
+    float: left;
+    border: 3px solid lightgray;
+    margin: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    height: 250px;
+    width: 400px;
+}
+
+.player-bio{
+    background-color: rgb(138, 235, 235);
+    color: black;
+    padding: 10px;
+    font-weight: 800;
+    width: 100%;
+}
+
+.image{
+    height: 100%;
+    width: 150px;
+}
