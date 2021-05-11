@@ -7,6 +7,7 @@ const Team = (props) => {
     return (
         <div className="header-style">
             <h4>Player added in the team: {team.length}</h4>
+// Add h4 playername {' '}
             <h4>Total Salary: ${totalSalary}</h4>
         </div>
     );
